@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JorgeTarancon
 - 👀 I’m interested in Big Data, Machine Learning, Web Programming
-- 🌱 I’m currently learning Cloud Services as AWS.
+- 🌱 I’m currently learning Cloud Services such as AWS.
 - 📫 si.jorgetarancon@gmail.com
 
 <!---
